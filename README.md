@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-<img src="https://github.com/FarzanehValaee/CarPricePrediction/blob/master/demo.png">
+<img src="[https://github.com/FarzanehValaee/CarPricePrediction/blob/master/demo.png](https://github.com/rajtilakls2510/car_price_predictor/raw/master/demo.png)">
 
 
 
